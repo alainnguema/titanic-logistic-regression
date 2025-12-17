@@ -106,5 +106,5 @@ Projet réalisé dans le cadre du cours d'Automatisation Supervisée (Supervised
 
 ---
 
-**Note** : Les fichiers `train.csv` et `test.csv` ne sont pas inclus dans le repository. Veuillez les télécharger depuis [Kaggle](https://www.kaggle.com/c/titanic/data).
+**Note** : Les fichiers `train.csv` et `test.csv` sont inclus dans le repository. Cependant, vous pouvez les télécharger depuis [Kaggle](https://www.kaggle.com/c/titanic/data).
 
