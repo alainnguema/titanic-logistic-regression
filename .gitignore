@@ -1,5 +1,5 @@
 # Données
-*.csv
+#*.csv
 !requirements.txt
 
 # Jupyter Notebook
